@@ -118,9 +118,9 @@ function shortenJS(str) {
 }
 
 console.log(
-  shortenJS("Nma bob o'ldi desa😱 : Java Script qiynab oldirdi deylar ;")
+  shortenJS("Nma bob o'lbdi deyishsa😱 : Java Script qiynab oldirdi deylar ;")
 );
 
 // sentyabr da 18 ga tolaman shunga 2 hil yosh yozganman 😊
 
-//Nma bob oldi desa😱 : Java Script qiynab oldirdi deylar
+//Nma bob olbdi deyishsa😱 : Java Script qiynab oldirdi deylar
