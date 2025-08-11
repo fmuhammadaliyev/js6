@@ -48,8 +48,6 @@ function hasValueorNot(arr, value) {
 
 console.log(hasValueorNot(["nma", "yoq", "ha"], "tori kemisz"));
 
-//8-MASALA
-
 //9-MASALA
 function containsApple(arr) {
   return arr.includes("olma");
