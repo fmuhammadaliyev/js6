@@ -32,7 +32,7 @@ function cleanString(str) {
   return str.trim();
 }
 
-console.log(cleanString("   MirzoUlugbek         "));
+console.log(cleanString("       MirzoUlugbek         "));
 
 //6-MASALA
 function scream(str) {
